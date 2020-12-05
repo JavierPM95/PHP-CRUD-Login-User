@@ -115,7 +115,7 @@
                         }
                     </script>';
 
-                    echo '<div class="alert alert-success"> User deleted successfully </div>';
+                    echo '<div class="alert alert-danger"> User deleted successfully </div>';
                 }
 
             }
