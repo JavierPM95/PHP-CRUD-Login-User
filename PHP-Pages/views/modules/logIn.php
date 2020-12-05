@@ -15,7 +15,7 @@
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="inputGroupPrepend"><i class="fas fa-envelope"></i></span>
                         </div>
-                        <input class="form-control" type="text" placeholder="Your Email" id="email" name="accessEmail">
+                        <input class="form-control" type="text" placeholder="Your Email" id="email" name="accessEmail" autofocus>
                     </div>
                 </div>
                 <div class="form-group">

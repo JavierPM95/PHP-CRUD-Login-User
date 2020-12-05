@@ -34,6 +34,7 @@
               placeholder="Your user"
               id="userName"
               name="registerUserName"
+              autofocus
             />
           </div>
         </div>
